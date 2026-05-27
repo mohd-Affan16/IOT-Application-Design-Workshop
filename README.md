@@ -26,7 +26,7 @@ I attended a full-day practical workshop focused on designing and building real-
   <img width="340" alt="WhatsApp Image 2026-05-27 at 12 54 47 PM" src="https://github.com/user-attachments/assets/578c48ba-27dd-49f7-a8fa-b33b716195f8" />
   <img width="340"  alt="WhatsApp Image 2026-05-27 at 12 54 46 PM (1)" src="https://github.com/user-attachments/assets/311b2123-738b-42fa-850a-fa9937e2c79d" />
  
-  <img width="340"  alt="WhatsApp Image 2026-05-27 at 12 54 45 PM (1)" src="https://github.com/user-attachments/assets/2c36e7ae-b3af-48a6-867c-bed95f4b7e52" />
+  
   <img width="340"  alt="WhatsApp Image 2026-05-27 at 12 54 45 PM" src="https://github.com/user-attachments/assets/437c49ea-1785-46ee-955c-1262c089f539" />
 
 </div>
