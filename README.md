@@ -19,29 +19,21 @@ I attended a full-day practical workshop focused on designing and building real-
 - Voice Control implementation using Sinric Pro platform
 
 ## Screenshots from the Workshop
-
-<div style="display: flex; gap: 12px; overflow-x: auto; padding: 10px 0; scrollbar-width: thin; -webkit-overflow-scrolling: touch;">
-  <img width="340" alt="WhatsApp Image 2026-05-27 at 12 54 47 PM" src="https://github.com/user-attachments/assets/578c48ba-27dd-49f7-a8fa-b33b716195f8" />
-  <img width="340"  alt="WhatsApp Image 2026-05-27 at 12 54 46 PM (1)" src="https://github.com/user-attachments/assets/311b2123-738b-42fa-850a-fa9937e2c79d" />
-  <img width="340"  alt="WhatsApp Image 2026-05-27 at 12 54 43 PM" src="https://github.com/user-attachments/assets/1bdd1f59-34f0-40c1-81fe-bc9ed029372b" />
-  <img width="340"  alt="WhatsApp Image 2026-05-27 at 12 54 45 PM" src="https://github.com/user-attachments/assets/437c49ea-1785-46ee-955c-1262c089f539" />
-
-</div>
 <details>
-<summary>Screenshots from the Workshop</summary>
-<img src="https://github.com/user-attachments/assets/578c48ba-27dd-49f7-a8fa-b33b716195f8" alt="Workshop Setup 1" width="100%">
+<summary>Image 1</summary>
+<img src="https://github.com/user-attachments/assets/578c48ba-27dd-49f7-a8fa-b33b716195f8" alt="Workshop Setup 1" width="340">
 </details>
 <details>
-<summary>Screenshots from the Workshop</summary>
-<img src="https://github.com/user-attachments/assets/311b2123-738b-42fa-850a-fa9937e2c79d" alt="Workshop Setup 2" width="100%">
+<summary>Image 2</summary>
+<img src="https://github.com/user-attachments/assets/311b2123-738b-42fa-850a-fa9937e2c79d" alt="Workshop Setup 2" width="340">
 </details>
 <details>
-<summary>Screenshots from the Workshop</summary>
-<img src="https://github.com/user-attachments/assets/1bdd1f59-34f0-40c1-81fe-bc9ed029372b" alt="Workshop Setup 3" width="100%">
+<summary>Image 3</summary>
+<img src="https://github.com/user-attachments/assets/1bdd1f59-34f0-40c1-81fe-bc9ed029372b" alt="Workshop Setup 3" width="340">
 </details>
 <details>
-<summary>Screenshots from the Workshop</summary>
-<img src="https://github.com/user-attachments/assets/437c49ea-1785-46ee-955c-1262c089f539" alt="Workshop Setup 4" width="100%">
+<summary>Image 4</summary>
+<img src="https://github.com/user-attachments/assets/437c49ea-1785-46ee-955c-1262c089f539" alt="Workshop Setup 4" width="340">
 </details>
 ---
 
