@@ -25,25 +25,25 @@ I attended a full-day practical workshop focused on designing and building real-
     <tr>
       <td width="25%" align="center">
         <details>
-          <summary>Image 1</summary>
+          <summary> Fan Setup</summary>
           <img src="https://github.com/user-attachments/assets/437c49ea-1785-46ee-955c-1262c089f539" alt="Workshop Setup" width="100%">
         </details>
       </td>
       <td width="25%" align="center">
         <details>
-          <summary>Image 2</summary>
+          <summary>LED blink</summary>
           <img src="https://github.com/user-attachments/assets/1bdd1f59-34f0-40c1-81fe-bc9ed029372b" alt="LCD Display" width="100%">
         </details>
       </td>
       <td width="25%" align="center">
         <details>
-          <summary>Image 3</summary>
+          <summary>LED display</summary>
           <img src="https://github.com/user-attachments/assets/311b2123-738b-42fa-850a-fa9937e2c79d" alt="Sensor Setup" width="100%">
         </details>
       </td>
       <td width="25%" align="center">
         <details>
-          <summary>Image 4</summary>
+          <summary>LED display</summary>
           <img src="https://github.com/user-attachments/assets/578c48ba-27dd-49f7-a8fa-b33b716195f8" alt="Cooling Fan Setup" width="100%">
         </details>
       </td>
