@@ -19,34 +19,6 @@ I attended a full-day practical workshop focused on designing and building real-
 - Voice Control implementation using Sinric Pro platform
 
 ## Screenshots from the Workshop
-<table>
-<tr>
-<td>
-<details>
-<summary>Image 1</summary>
-<img src="https://github.com/user-attachments/assets/437c49ea-1785-46ee-955c-1262c089f539" alt="Workshop Setup" width="500">
-</details>
-</td>
-<td>
-<details>
-<summary>Image 2</summary>
-<img src="https://github.com/user-attachments/assets/1bdd1f59-34f0-40c1-81fe-bc9ed029372b" alt="LCD Display" width="500">
-</details>
-</td>
-<td>
-<details>
-<summary>Image 3</summary>
-<img src="https://github.com/user-attachments/assets/311b2123-738b-42fa-850a-fa9937e2c79d" alt="Sensor Setup" width="500">
-</details>
-</td>
-<td>
-<details>
-<summary>Image 4</summary>
-<img src="https://github.com/user-attachments/assets/578c48ba-27dd-49f7-a8fa-b33b716195f8" alt="Cooling Fan Setup" width="500">
-</details>
-</td>
-</tr>
-</table>
 
 <p align="center">
   <table width="100%">
@@ -54,7 +26,7 @@ I attended a full-day practical workshop focused on designing and building real-
       <td width="25%" align="center">
         <details>
           <summary>Image 1</summary>
-          <img src="https://github.com/user-attachments/assets/437c49ee-1785-4eee-955c-1262c089f539" alt="Workshop Setup" width="100%">
+          <img src="https://github.com/user-attachments/assets/437c49ea-1785-46ee-955c-1262c089f539" alt="Workshop Setup" width="100%">
         </details>
       </td>
       <td width="25%" align="center">
@@ -66,13 +38,13 @@ I attended a full-day practical workshop focused on designing and building real-
       <td width="25%" align="center">
         <details>
           <summary>Image 3</summary>
-          <img src="https://github.com/user-attachments/assets/31b12b23-738b-42fa-850a-f49937eec79d" alt="Sensor Setup" width="100%">
+          <img src="https://github.com/user-attachments/assets/311b2123-738b-42fa-850a-fa9937e2c79d" alt="Sensor Setup" width="100%">
         </details>
       </td>
       <td width="25%" align="center">
         <details>
           <summary>Image 4</summary>
-          <img src="https://github.com/user-attachments/assets/578c48ba-276d-4977-a8fe-b33b76161958" alt="Cooling Fan Setup" width="100%">
+          <img src="https://github.com/user-attachments/assets/578c48ba-27dd-49f7-a8fa-b33b716195f8" alt="Cooling Fan Setup" width="100%">
         </details>
       </td>
     </tr>
