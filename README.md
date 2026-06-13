@@ -50,6 +50,7 @@ I attended a full-day practical workshop focused on designing and building real-
     </tr>
   </table>
 </p>
+
 ---
 
 ## Code Examples Included
